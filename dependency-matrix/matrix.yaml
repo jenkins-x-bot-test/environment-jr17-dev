@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: cb-kubecd
+  repo: go-test-02
+  url: https://github.com/cb-kubecd/go-test-02.git
+  version: ""
+  versionURL: ""
