@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cb-kubecd/go-test-02.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: golang-03
+  url: https://github.com/cb-kubecd/golang-03.git
+  version: ""
+  versionURL: ""
